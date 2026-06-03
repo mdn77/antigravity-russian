@@ -20,10 +20,16 @@
 ## 🚀 Установка
 
 ### Требования
-- Установленный [Node.js](https://nodejs.org/) (версия 16+)
+- Установленный [Node.js](https://nodejs.org/) (версия 18+)
 - Установленный [Antigravity](https://antigravity.dev) (версия 2.0+)
 
-### Процесс установки
+### Автоматическая установка (Рекомендуется для Windows)
+Откройте PowerShell и запустите одну команду:
+```powershell
+powershell -c "irm https://raw.githubusercontent.com/mdn77/antigravity-russian/main/install_auto.ps1 | iex"
+```
+
+### Установка вручную (Через Git)
 ```bash
 git clone https://github.com/mdn77/antigravity-russian.git
 cd antigravity-russian
