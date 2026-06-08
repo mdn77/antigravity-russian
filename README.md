@@ -58,6 +58,8 @@ node install.js --uninstall
 
 Русификация полностью совместима с [Antigravity Auto-Accept](https://github.com/mdn77/antigravity-auto-accept) — можно устанавливать оба плагина одновременно. Порядок установки не имеет значения.
 
+> **⚠️ Важно:** При обновлении Antigravity `app.asar` перезаписывается и моды слетают. Для автоматической переустановки используйте [страж обновлений](https://github.com/mdn77/antigravity-auto-accept#%EF%B8%8F-%D1%81%D1%82%D1%80%D0%B0%D0%B6-%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B9-guardps1) из комбинированного репозитория.
+
 ## 📂 Структура проекта
 
 ```
